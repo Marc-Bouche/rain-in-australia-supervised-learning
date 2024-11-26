@@ -1,4 +1,4 @@
-# 🌧️ Rain in Australia (Supervised Learning) | Is it going to rain tomorrow?
+# 🌧️ Predicting Tomorrow's Rain in Australia: A Supervised Learning Approach
 
 ## 📋 Description
 
