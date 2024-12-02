@@ -3,7 +3,7 @@
 ## 📋 Description
 
 ### 🧑‍🏫 Context | Instructions
-With this topic we will be diving deep into the world of Artificial Intelligence and Machine Learning. This project is designed to be both a challenge and a learning opportunity, allowing to explore new concepts such as supervised learning, feature engineering, and more. The aim is to learn and apply new techniques.
+With this topic, we dive deep into the world of Artificial Intelligence and Machine Learning. This project is designed to be both a challenge and a learning opportunity, allowing exploration of new concepts such as supervised learning, feature engineering, and more. The aim is to learn and apply new techniques.
 
 ### 🌦️ Rain-in-Australia
 This dataset comprises about 10 years of daily weather observations from numerous locations across Australia.  
@@ -47,3 +47,17 @@ This column is marked 'Yes' if the rain for that day was 1mm or more.
 14. **💾 Github Final Commit**
 
 ---
+
+## 🌐 [Streamlit App (Under Construction)](https://will-it-rain-tomorrow-in-australia.streamlit.app/)
+
+A **Streamlit web application** for this project is currently under development!  
+The app aims to make predictions on rainfall using an interactive interface. Users will be able to input weather conditions and get real-time predictions based on our trained Machine Learning models.  
+
+Stay tuned for updates and the deployment link.  
+The app is hosted on **Streamlit Community Cloud** and will be integrated into this repository upon completion.
+
+---
+
+## ⚠️ Notes
+- The **Streamlit App** is in development and might not yet represent the final functionality.
+
